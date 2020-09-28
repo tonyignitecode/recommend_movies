@@ -41,6 +41,6 @@ Mainly three types of recommendation systems in machine learning.
 3. Hybrid Filtering: 
 
 
-Because of two data files are too large, you need to download below files from https://www.kaggle.com/grouplens/movielens-20m-dataset  
+Because of two data files are too large, you need to download them from https://www.kaggle.com/grouplens/movielens-20m-dataset  
 input\genome_scores.csv  
 input\rating.csv
