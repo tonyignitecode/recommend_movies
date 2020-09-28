@@ -17,3 +17,27 @@ There are also popular recommender systems for domains like restaurants, movies,
 - **Collaborative filtering engines**: these systems are widely used, and they try to predict the rating or preference that a user would give an item-based on past ratings and preferences of other users. Collaborative filters do not require item metadata like its content-based counterparts.  
     
     
+### Simple Recommenders ###   
+
+As described in the previous section, simple recommenders are basic systems that recommend the top items based on a certain metric or score. In this section, you will build a simplified clone of IMDB Top 250 Movies using metadata collected from IMDB.  
+
+The following are the steps involved:  
+
+Decide on the metric or score to rate movies on.  
+
+Calculate the score for every movie.  
+
+Sort the movies based on the score and output the top results.  
+
+### Recommender Systems: ###
+1. User Based Recommender Systems
+2. Item Based Recommender Systems
+
+A recommender system is a subclass of information filtering system that seeks to predict the "rating" a user would give to an item. 
+Mainly three types of recommendation systems in machine learning.
+
+1. Content Filtering: In this algorithm, we try finding items look alike.
+2. Collaborative Filtering: we try to search for look alike customers and offer products based on what his/her lookalike has chosen. This algorithm is very effective but takes a lot of time and resources.
+3. Hybrid Filtering: 
+
+
